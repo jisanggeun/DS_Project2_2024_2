@@ -10,7 +10,7 @@ Due date: 2024/11/17 23h 59m 59s.
 --------------------------
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
-#### [2024_DS_Project2_v1.pdf]()
+#### [2024_DS_Project2_v1.pdf](https://github.com/jisanggeun/DS_Project2_2024_2/raw/main/2024_DS_Project2_v1.pdf)
 ```
 10/07 - ver1 업로드
 ```
