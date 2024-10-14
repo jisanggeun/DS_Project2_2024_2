@@ -71,7 +71,7 @@ FlightData.h
 $ ls
 20232020XX_DS_project2.tar.gz
 
-$ tar -xzvf 2020202001_DS_project1.tar.gz
+$ tar -xzvf 20232020XX_DS_project2.tar.gz
 AVLNode.h
 AVLTree.cpp
 AVLTree.h
