@@ -10,9 +10,11 @@ Due date: 2024/11/17 23h 59m 59s.
 --------------------------
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
-#### [2024_DS_Project2_v3.pdf](https://github.com/jisanggeun/DS_Project2_2024_2/raw/main/2024_DS_Project2_v3.pdf)
+#### [2024_DS_Project2_v4.pdf](https://github.com/jisanggeun/DS_Project2_2024_2/raw/main/2024_DS_Project2_v4.pdf)
 ```
 10/07 - ver1 업로드
+10/14 - ver2, 3 제안서 오타 수정
+10/15 - ver4 제안서 오타 수정 및 코드 오타 수정
 ```
 
 ### 2. 자주들어오는 질문 
