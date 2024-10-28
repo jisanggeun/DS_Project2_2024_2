@@ -22,7 +22,7 @@ public:
 
 	void setRight(AVLNode* SN){pRight = SN;}
 	void setLeft(AVLNode* SN){pLeft = SN;}
-	void setFlightData(FlightData* pVac){ pFlightData = pFlight;}
+	void setFlightData(FlightData* pFlightData){ pFlightData = pFlight;}
 	void setBF(int a){mBF = a;}
 	AVLNode*	getRight(){return pRight;}
 	AVLNode*	getLeft(){return pLeft;}
