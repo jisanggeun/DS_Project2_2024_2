@@ -33,7 +33,7 @@ A. 네. 따로 제공하지 않습니다.
 ### Requirement
 ##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
 ```
-$ git clone https://github.com/jisanggeun/DS_Project_2_2024_2.git
+$ git clone https://github.com/jisanggeun/DS_Project2_2024_2.git
 $ cd DS_Project_2_2024_2
 ```
 
