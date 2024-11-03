@@ -15,7 +15,7 @@ public:
 		root=NULL;
 	}
 	~AVLTree(){};
-	bool		Insert(FlightData* pVac);
+	bool		Insert(FlightData* pFlightData);
 	FlightData*	Search(string name);
 	void GetVector(vector<FlightData*>& v);
 };
