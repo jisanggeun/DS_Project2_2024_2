@@ -1,5 +1,5 @@
 #include "AVLTree.h"
-bool AVLTree::Insert(FlightData* pVac){
+bool AVLTree::Insert(FlightData* pFlightData){
 }
 
 void AVLTree::GetVector(vector<FlightData*>& v){
