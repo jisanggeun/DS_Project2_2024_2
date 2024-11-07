@@ -23,6 +23,10 @@ bool Manager::ADD() {
 
 }
 
+bool Manager::PRINT_BP() {
+	
+}
+
 bool Manager::SEARCH_BP(string name) {
 
 }
