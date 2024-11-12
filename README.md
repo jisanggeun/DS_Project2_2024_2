@@ -55,7 +55,7 @@ $ ./run
 ```
 $ ls
 AVLNode.h    AVLTree.h   BpTreeDataNode.h  BpTreeIndexNode.h  main.cpp  Manager.cpp  FlightData.h
-AVLTree.cpp  BpTree.cpp  BpTree.h          BpTreeNode.h       Makefile  Manager.h
+AVLTree.cpp  BpTree.cpp  BpTree.h          BpTreeNode.h       Manager.h
 
 $ tar -czvf 20232020XX_DS_project2.tar.gz *
 AVLNode.h
@@ -67,7 +67,6 @@ BpTree.h
 BpTreeIndexNode.h
 BpTreeNode.h
 main.cpp
-Makefile
 Manager.cpp
 Manager.h
 FlightData.h
@@ -89,7 +88,6 @@ BpTree.h
 BpTreeIndexNode.h
 BpTreeNode.h
 main.cpp
-Makefile
 Manager.cpp
 Manager.h
 FlightData.h
